@@ -29,11 +29,9 @@ The dataset includes the following fields:
 - **Line Chart** showing revenue by month
 - Responsive visuals that adjust based on selected filters
 ## 🖼️ Sample Visuals
-> *IMG_3684*
 
-![Country Sales](images/country-sales.png)
-![Sales by Product](images/product-sales.png)
-![Monthly Revenue](images/monthly-trend.png)
+![Dashboard Preview] (Screenshot dashborad.png)
+
 
 
 
